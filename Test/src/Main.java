@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Primul mesaj");
         System.out.println("Buna dimineata!");
+        System.out.println("Buna dimineata2!");
     }
 }
